@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Core.Utilities.Security.Encryption
 {
-    public class SecurituKeyHelper
+    public class SecurityKeyHelper
     {
         public static SecurityKey CreateSecurityKey(string securitykey)
         {
