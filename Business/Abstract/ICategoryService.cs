@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    //dış dünyaya neyi vermek istersen onu implemente et
+    
     public interface ICategoryService 
     {
         IDataResult<List<Category>> GetAll();
